@@ -88,9 +88,9 @@ h4 {
     font-size: 32px;
     font-family: 'Amatic SC', cursive !important;
     color: #013243;
-    margin: 10px;
+    margin: 0;
     text-align: center;
-    padding: 20px 20px;
+    padding: 10px 0;
 }
 
 .card .cover .flowers {
@@ -220,6 +220,7 @@ audio {
         font-size: 12px;
     }
 }
-audio .backgroun-music{
+audio .backgroun{
     display: none;
 }
+
