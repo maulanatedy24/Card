@@ -88,9 +88,9 @@ h4 {
     font-size: 32px;
     font-family: 'Amatic SC', cursive !important;
     color: #013243;
-    margin: 0;
+    margin: 10px;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 20px;
 }
 
 .card .cover .flowers {
